@@ -1,0 +1,103 @@
+.header {
+  height: 100px;
+}
+
+.movie-card {
+  margin-left: 60px;
+ 
+  margin-bottom: 30px;
+  width: 300px;
+  text-align: center;
+  background-color: white;
+  
+
+}
+
+.card-img-top {
+  height: 300px;
+  width:100%
+}
+
+.box{
+  display:none;
+}
+
+
+body {
+  background-color: whitesmoke;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.all {
+  margin-top: 2%;
+  display: flex;
+  flex-direction: column;
+}
+.inputs {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 3%;
+  margin-bottom: 4%;
+  padding-left: 20px;
+}
+.MovieContainer {
+  display: flex;
+  flex-flow: row wrap;
+  //padding-left: 100px;
+  //float: left;
+ 
+ 
+}
+.AddContainer{
+  float: left;
+ 
+}
+
+.logo {
+   height: 400px;
+   width: 300px;
+
+ 
+ margin-bottom: 100px;
+}
+
+#button1 {
+  width: 100% !important;
+  padding-left: 0px;
+}
+.card-body{
+  margin-bottom: 20px;
+}
+
+// .card-footer-badge{
+//   margin-top: 20px;
+//   display: flex;
+//   justify-content: space-around;
+//   margin-bottom: 20px;
+// }
+
+
+
+#descriptionButton{
+  height: 20%;
+  margin-bottom: 7%;
+}
+#editButton{
+ 
+  background-color:#0069D9;
+  color:white;
+  border-color: #0069D9;
+}
+#removeButton{
+  //padding:0%
+  margin-left: 15%;
+}
+
+.modal-dialog{
+  text-align: left;
+}
+.center{
+  margin-left: 40%;
+  margin-top:10%
+}

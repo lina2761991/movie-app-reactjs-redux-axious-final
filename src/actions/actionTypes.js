@@ -1,0 +1,10 @@
+export const ADD_MOVIE = "ADD_MOVIE";
+export const REMOVE_MOVIE = "REMOVE_MOVIE";
+export const SHOW = "SHOW";
+export const EDIT_MOVIE = "EDIT_MOVIE";
+export const SET_VISIBILITY_FILTER = "SET_VISIBILITY_FILTER";
+export const SELECTED_ITEM_DATA = "SELECTED_ITEM_DATA";
+export const ON_CHANGE_ITEM = "ON_CHANGE_ITEM";
+export const DESCRIPTION_ITEM = "DESCRIPTION_ITEM";
+export const IMAGE_ITEM = "IMAGE_ITEM";
+export const RATING_ITEM = "RATING_ITEM";
